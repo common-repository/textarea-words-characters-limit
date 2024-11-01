@@ -1,0 +1,21 @@
+.percentage-fd {
+    width: 50px;
+    position: relative;
+}
+.perc-am-fd {
+  background-color: #11a683;
+  width: 0px;
+  height: 3px;
+}
+
+.cct-count-wrapper {
+    width: 100px;
+    margin-bottom: 5px;
+    margin-top: 0px !important;
+}
+
+
+.count-details {
+    font-size: 1vw;
+    color: gray;
+}
